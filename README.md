@@ -62,8 +62,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/>
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
-<p align="center">
-<p align="center">
+
+<div align="center">
   <table>
     <tr>
       <td>
@@ -79,7 +79,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 <p align="right">
   <a href="#">
