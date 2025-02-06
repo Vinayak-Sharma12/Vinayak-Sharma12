@@ -34,8 +34,10 @@
 <a href="https://github.com/Vinayak-Sharma12/Toxic-Comment-Classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=Toxic-Comment-Classifier&theme=transparent" alt="GitHub Repo">
 </a>
+<a href="https://github.com/Vinayak-Sharma12/Resume-Screening-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=Resume-Screening-App&theme=transparent" alt="GitHub Repo">
+</a>
 
-<a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
 <a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
 <a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
 </div>
