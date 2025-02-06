@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=ThaparGPT&theme=transparent" alt="GitHub Repo">
 </a>
 <a href="https://github.com/Vinayak-Sharma12/AgriCare-Plant-Disease-Detection-and-Prevention">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=AgriCare-Plant-Disease-Detection-and-Prevention &theme=transparent" alt="GitHub Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=AgriCare-Plant-Disease-Detection-and-Prevention&theme=transparent" alt="GitHub Repo">
 </a>
 <a href="https://github.com/samarjitsahoo/youtube-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=youtube-clone&theme=transparent" alt="Java"></a>
 <a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
