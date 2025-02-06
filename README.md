@@ -63,7 +63,7 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-
+<p align="center">
   <table>
     <tr>
       <td>
