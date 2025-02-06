@@ -63,14 +63,20 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=svinayak580@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
-</a>
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=svinayak580@gmail.com" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
+    </a>
 
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/vinayak-sharma-41202621a">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
+    <a href="https://linkedin.com/in/vinayak-sharma-41202621a" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="LinkedIn"/>
+    </a>
+  </div>
+</p>
+
+<p align="right">
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" />
   </a>
 </p>
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
