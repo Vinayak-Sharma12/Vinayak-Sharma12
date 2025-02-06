@@ -43,7 +43,7 @@
 <a href="https://github.com/Vinayak-Sharma12/Data-Science">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=Data-Science&theme=transparent" alt="GitHub Repo">
 </a>
-<a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
+
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
