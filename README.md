@@ -63,9 +63,10 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="mailto:svinayak580@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=svinayak580@gmail.com" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
-  </a>
+</a>
+
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/vinayak-sharma-41202621a">
