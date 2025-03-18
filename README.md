@@ -1,6 +1,6 @@
 <h1 align="center">Vinayak Sharma
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=GENAI Engineer;Data+Science Engineer +Enthusiast;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/> 
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=GENAI Engineer; Data+Science Engineer +Enthusiast;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/> 
 </p>
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
