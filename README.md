@@ -1,6 +1,6 @@
 <h1 align="center">Vinayak Sharma
 <p align="center">
-   <img src="https://i.ibb.co/8LXwpnJr/coder-clipart-boy-working-with-computer-game-on-the-desk-vector.jpg" width="auto" height="100" alt="Typing"/> 
+   <img src="https://i.ibb.co/8LXwpnJr/coder-clipart-boy-working-with-computer-game-on-the-desk-vector.jpg" width="100" height="100" alt="Typing"/> 
 </p>
 <p align="center">
 </p>
