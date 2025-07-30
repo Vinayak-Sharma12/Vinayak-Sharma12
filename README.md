@@ -1,9 +1,8 @@
 <h1 align="center">Vinayak Sharma
 <p align="center">
-   <img src="https://in.pinterest.com/pin/322711129571059515/" width="auto" height="35" alt="Typing"/> 
+   <img src="https://i.ibb.co/8LXwpnJr/coder-clipart-boy-working-with-computer-game-on-the-desk-vector.jpg" width="auto" height="35" alt="Typing"/> 
 </p>
 <p align="center">
-<a href="https://ibb.co/Q3XVR7ZP"><img src="https://i.ibb.co/8LXwpnJr/coder-clipart-boy-working-with-computer-game-on-the-desk-vector.jpg" alt="coder-clipart-boy-working-with-computer-game-on-the-desk-vector" border="0"></a>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
